@@ -1,9 +1,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcosoliveira253&label=Visualizacao&color=blue&style=flat"alt="marcosoliveira253"></p>
 <h1 align="center">Olá 👋, sou Marcos Oliveira, sou desenvolvedor front-end</h1>
 
-- 🔭 Estou trabalhando atualmente **Em pequenos projetos pessoais**
 
-- 🌱 Estou aprendendo no momento **Atualmente estou aprimorando o conhecimento em Javascript através de cursos.**
+- 🌱 Atualmente estou aprendendo e criando projetos com:
+  - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
+  - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"/>
+  - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript-logo"/>
 
 - 📫 Meu email **marcosoliveira253.mo@gmail.com**
 
