@@ -1,23 +1,34 @@
-# 💫 About Me:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0E8AE6&size=35&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+
+# 💫 Sobre Mim:
 Sou um desenvolvedor front end altamente motivado com experiência em desenvolvimento web e habilidades em HTML, CSS e JavaScript. Tenho experiência em trabalhar em equipe e em projetos de grande escala, e estou constantemente procurando aprender novas tecnologias e expandir minhas habilidades.
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/marcosoliveira_dev/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosodev)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcosoliveira253/marcosoliveira253)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://portfolio-marcosoliveiradev.netlify.app/)
+## 🌐 Redes Sociais:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/marcosoliveira_dev/)&nbsp; 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosodev)&nbsp;
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+
+# 💻 Linguagens:
+![HTML5](https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=30A3DC)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp; 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp; 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp; 
+
+# ⚙️ Ferramentas
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/pt)&nbsp;
+[![Git](https://img.shields.io/badge/git-%23121011.svg?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)&nbsp;
+[![Visual Code](https://img.shields.io/badge/visual_Studio_Code-%23121011.svg?style=for-the-badge&logo=visualStudioCode&logoColor=007ACC)](https://git-scm.com/doc)&nbsp;
+
+#  Portfólio
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://portfolio-marcosoliveiradev.netlify.app/)
 
 # 📊 GitHub Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosoliveira253&theme=dark&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosoliveira253&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+# 🚀 Linguagens Mais Usadas
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosoliveira253&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 [![](https://visitcount.itsvg.in/api?id=marcosoliveira253&icon=0&color=0)](https://visitcount.itsvg.in)
 
