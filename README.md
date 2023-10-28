@@ -22,4 +22,4 @@ Sou um desenvolvedor front end altamente motivado com experiência em desenvolvi
 [![](https://visitcount.itsvg.in/api?id=marcosoliveira253&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![ Animacao de cobra ]( https://github.com/marcosoliveira253/blob/output/github-contribution-grid-snake.svg )
+
