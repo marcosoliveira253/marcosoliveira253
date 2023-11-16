@@ -1,7 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0E8AE6&size=35&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
 # 💫 Sobre Mim:
-Sou um desenvolvedor front end altamente motivado com experiência em desenvolvimento web e habilidades em HTML, CSS e JavaScript. Tenho experiência em trabalhar em equipe e em projetos de grande escala, e estou constantemente procurando aprender novas tecnologias e expandir minhas habilidades.
+Meu nome é Marcos Oliveira, estudo HTML, CSS, Javascript, versionamento Git e GuitHub a 2 anos.<br> 
+Minha especialidade é front end, porque achei mais fácil para um iniciante em transição de carreira.<br>
+A escolha profissional é de inicío Javascript, depois será React, Node e Python.<br> 
+Estou buscando no mercado de desenvolvimento um crescimento profissional.
+
 
 
 ## 🌐 Redes Sociais:
@@ -14,6 +18,7 @@ Sou um desenvolvedor front end altamente motivado com experiência em desenvolvi
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp; 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp; 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp; 
+![TypeScript](https://img.shields.io/badge/typescript-%31572B6.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp; 
 
 # ⚙️ Ferramentas
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/pt)&nbsp;
