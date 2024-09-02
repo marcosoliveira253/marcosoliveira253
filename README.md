@@ -16,14 +16,17 @@ Estou buscando no mercado de desenvolvimento um crescimento profissional.
 # 💻 Linguagens:
 ![HTML5](https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=30A3DC)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp; 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp; 
+[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp; 
-![Vue](https://img.shields.io/badge/vue-%31572B6.svg?style=for-the-badge&logo=vuejs&logoColor=white)&nbsp; 
+[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#)
 
 # ⚙️ Ferramentas
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/pt)&nbsp;
 [![Git](https://img.shields.io/badge/git-%23121011.svg?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)&nbsp;
-[![Visual Code](https://img.shields.io/badge/visual_Studio_Code-%23121011.svg?style=for-the-badge&logo=visualStudioCode&logoColor=007ACC)](https://git-scm.com/doc)&nbsp;
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+
+# Gerenciadores de pacotes
+[![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
 
 #  Portfólio
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://portfolio-marcosoliveiradev.netlify.app/)
