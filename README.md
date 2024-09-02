@@ -18,7 +18,7 @@ Estou buscando no mercado de desenvolvimento um crescimento profissional.
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp; 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp; 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp; 
-![TypeScript](https://img.shields.io/badge/typescript-%31572B6.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp; 
+![Vue](https://img.shields.io/badge/vue-%31572B6.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp; 
 
 # ⚙️ Ferramentas
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/pt)&nbsp;
