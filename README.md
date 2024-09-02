@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0E8AE6&size=35&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
 # 💫 Sobre Mim:
-Meu nome é Marcos Oliveira, estudo HTML, CSS, Javascript, versionamento Git e GuitHub a mais de 2 anos.<br> 
+Meu nome é Marcos Oliveira, estudo HTML, CSS, Javascript, versionamento Git e GuitHub a mais de 3 anos.<br> 
 Minha especialidade é front end, porque achei mais fácil para um iniciante em transição de carreira.<br>
 A escolha profissional é de inicío Javascript, depois será React, Node e Python.<br> 
 Estou buscando no mercado de desenvolvimento um crescimento profissional.
