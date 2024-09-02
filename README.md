@@ -3,7 +3,7 @@
 # 💫 Sobre Mim:
 Meu nome é Marcos Oliveira, estudo HTML, CSS, Javascript, versionamento Git e GuitHub a mais de 3 anos.<br> 
 Minha especialidade é front end, porque achei mais fácil para um iniciante em transição de carreira.<br>
-A escolha profissional é de inicío Javascript, depois será React, Node e Python.<br> 
+A escolha profissional é de inicío Javascript, depois será React, Node.<br> 
 Estou buscando no mercado de desenvolvimento um crescimento profissional.
 
 
