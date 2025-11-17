@@ -34,9 +34,6 @@
 #  Portfólio
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://portfolio-marcosoliveiradev.netlify.app/)
 
-# 📊 GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosoliveira253&theme=dark&show_icons=true)
-
 
 # 🚀 Linguagens Mais Usadas
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosoliveira253&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
